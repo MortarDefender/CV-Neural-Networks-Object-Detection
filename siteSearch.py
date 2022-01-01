@@ -5,7 +5,7 @@ def search(fname):
     with open(fname, "r") as f:
         read = f.read()
 
-    for site in read.splti("\n"):
+    for site in read.split("\n"):
         web.open(site)
 
 
