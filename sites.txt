@@ -1,0 +1,7 @@
+https://medium.com/axinc-ai/mobilenetssd-a-machine-learning-model-for-fast-object-detection-37352ce6da7d
+https://iq.opengenus.org/ssd-mobilenet-v1-architecture/
+https://xailient.com/real-time-vehicle-detection-with-mobilenet-ssd-and-xailient/#:~:text=MobileNet%20is%20a%20lightweight%20deep,mobiles%20and%20embedded%20vision%20applications.&text=The%20SSD%20approach%20is%20based,class%20instances%20in%20those%20boxes.
+https://github.com/abhileshborode/SSD-MobileNet
+https://github.com/chuanqi305/MobileNet-SSD
+https://github.com/weiliu89/caffe/tree/ssd
+https://github.com/chuanqi305/rscnn
