@@ -70,7 +70,7 @@ while True:
         continue
     if writer is None:
         height, width, layers = orig_image.shape
-        writer = cv2.VideoWriter('results2.avi', cv2.VideoWriter_fourcc(*"XVID"), 30, (width, height))
+        writer = cv2.VideoWriter('results.avi', cv2.VideoWriter_fourcc(*"XVID"), 30, (width, height))
     image = cv2.cvtColor(orig_image, cv2.COLOR_BGR2RGB)
     timer.start()
     boxes, labels, probs = predictor.predict(image, 10, 0.4)

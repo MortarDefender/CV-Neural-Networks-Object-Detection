@@ -1,0 +1,5 @@
+Run Command (Single image, will be saved to run_ssd_example_output.jpg):
+python run_ssd_example.py mb1-ssd mb1-ssd-Epoch-199-Loss-1.3985195712537954.pth open-images-model-labels.txt [IMAGE_PATH]
+
+Run Command Video (will be saved to results.avi):
+python run_ssd_live_demo.py mb1-ssd mb1-ssd-Epoch-199-Loss-1.3985195712537954.pth open-images-model-labels.txt [VIDEO_PATH]
